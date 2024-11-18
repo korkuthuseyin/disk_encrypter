@@ -1,0 +1,14 @@
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\bin\Debug\net8.0\disk_encrypter.exe
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\bin\Debug\net8.0\disk_encrypter.deps.json
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\bin\Debug\net8.0\disk_encrypter.runtimeconfig.json
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\bin\Debug\net8.0\disk_encrypter.dll
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\bin\Debug\net8.0\disk_encrypter.pdb
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.AssemblyInfoInputs.cache
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.AssemblyInfo.cs
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.dll
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\refint\disk_encrypter.dll
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.pdb
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\disk_encrypter.genruntimeconfig.cache
+C:\Users\Huseyin\source\repos\disk_encrypter\disk_encrypter\obj\Debug\net8.0\ref\disk_encrypter.dll
