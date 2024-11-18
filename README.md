@@ -16,4 +16,4 @@ This project is a C# console application designed to enhance security by generat
 
 ### **1. Clone the Repository**
 ```bash
-git clone git@github.com:<YourUsername>/<RepoName>.git
+git clone git@github.com:korkuthuseyin/disk_encrypter.git
